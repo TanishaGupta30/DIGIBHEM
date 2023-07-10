@@ -8,7 +8,6 @@ between 1 and 100. The computer will randomly generate a number, and the user wi
 guesses to guess the correct number. The game will keep track of the user score and display it at the
 end of the game.
 
-https://github.com/TanishaGupta30/DIGIBHEM.github.io.git
 
 Hope it will help you!!
 BEST OF LUCK!!
